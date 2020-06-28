@@ -302,7 +302,7 @@ p {
 }
 .education .education-info .education .education-card {
 	position: absolute;
-	height: 110%;
+	height: 113%;
 	width: 105%;
 	transform-style: preserve-3d;
 	transition: .3s ease transform;
@@ -689,7 +689,7 @@ p {
 
 	/* Education */
 	.education .education-header .education-header-desc {
-		max-width: 500px;
+		max-width: 600px;
 		padding-top: 20px;
 		margin: 0 auto;
 	}
