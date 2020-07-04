@@ -302,7 +302,7 @@ p {
 }
 .education .education-info .education .education-card {
 	position: absolute;
-	height: 113%;
+	height: 108%;
 	width: 105%;
 	transform-style: preserve-3d;
 	transition: .3s ease transform;
