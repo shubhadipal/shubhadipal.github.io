@@ -724,6 +724,30 @@ p {
 		padding-left: 20px;
 	}
 	/* End contact  */
+
+	/* Footer section  */
+.footer {
+	min-height: 20vh;
+	width: 100%;
+	background-image: linear-gradient(60deg, #15171a 0%, #485563 100%);;
+	color: white;
+	flex-direction: column;
+	text-align: center;
+	padding: 5rem;
+	font-size: 1.5rem;
+}
+.footer .footer-contact {
+	padding: 20px;
+}
+.footer .footer-contact .footer-contact-heading {
+	font-size: 2.5rem;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin-bottom: 10px;
+}
+
+/* End Footer section  */
+
 }
 /* End Media Query For Tablet */
 
